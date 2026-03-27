@@ -4,6 +4,7 @@ A fully responsive car rental website built with **HTML, CSS, and JavaScript**.
 The site provides an intuitive user experience with sections for Home, Rent, Ride, Gallery, Stories, Contact, and Find Location.  
 It is designed to be professional, mobile-friendly, and easy to navigate.
 
+View the live site here: https://waithira-felix-coder.github.io/car-rental/
 ---
 
 ##  Features
